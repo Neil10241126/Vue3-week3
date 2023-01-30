@@ -7,7 +7,7 @@
 ## Demo Link
 
 - [登入](https://neil10241126.github.io/Vue3-week3/login.html)
-- [產品後台](https://neil10241126.github.io/Vue3-week3/products2.html)
+- [產品後台](https://neil10241126.github.io/Vue3-week3/products.html)
 
 ## Skills I Have Learn and Use
 
